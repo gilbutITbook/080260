@@ -16,7 +16,7 @@ https://fasttext.cc/docs/en/pretrained-vectors.html 에서 Korea의 txt 파일 <
 
 ∙ 2) 아래 링크에서 glove.6b.100d.txt를 내려받습니다. 10장의 data 폴더에 넣어 실습하세요. </br>
 
-∙ 10장 [glove.6B.100d.txt_내려받기]((https://github.com/gilbutITbook/080260/files/8195307/Chapter05_00.zip) </br>
+∙ 10장 [glove.6B.100d.txt_내려받기](https://github.com/gilbutITbook/080260/files/8195307/Chapter05_00.zip) </br>
    사이트 URL: https://nlp.stanford.edu/projects/glove/ </br>
 
 ∙데이터셋은 python과 colab 모두 동일하게 사용하며, 일부 압축 파일은 colab 실습용입니다.</br>
